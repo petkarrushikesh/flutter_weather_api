@@ -1,13 +1,15 @@
-# flutter_weather_api
+# flutter_weather_app
 
-A new Flutter project.
+A new Flutter project on weather.
+it is based on
 
-## Getting Started
+## Installation 
 
-This project is a starting point for a Flutter application.
-how to run:
-flutter pub get
-flutter run
+Install my-project with npm
+
+```bash 
+  git clone: https://github.com/petkarrushikesh/flutter_weather_app
+
 
 A few resources to get you started if this is your first Flutter project:
 
