@@ -24,3 +24,9 @@ Install my-project with npm
 cd flutter_weather_api
 
 flutter run
+
+
+![image](https://github.com/petkarrushikesh/flutter_weather_api/assets/130480524/f652a9be-e042-4e44-808b-dc4508feb315)
+
+![image](https://github.com/petkarrushikesh/flutter_weather_api/assets/130480524/2b9ec5bb-041a-487c-a97b-60a70937c51d)
+
