@@ -1,3 +1,4 @@
+![Screenshot 2024-07-06 220242](https://github.com/petkarrushikesh/flutter_weather_api/assets/130480524/078a85d0-3069-4a1b-b548-9d9d09277113)
 # flutter_weather_app
 
 A new Flutter project on weather.
@@ -26,7 +27,5 @@ cd flutter_weather_api
 flutter run
 
 
-![image](https://github.com/petkarrushikesh/flutter_weather_api/assets/130480524/f652a9be-e042-4e44-808b-dc4508feb315)
 
-![image](https://github.com/petkarrushikesh/flutter_weather_api/assets/130480524/2b9ec5bb-041a-487c-a97b-60a70937c51d)
 
